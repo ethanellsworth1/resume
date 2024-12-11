@@ -1,0 +1,75 @@
+/* General Body Styling */
+body.byu-body {
+    font-family: 'Arial', sans-serif !important;
+    background-color: #eef2f7 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    line-height: 1.6 !important;
+}
+
+/* Header Styling */
+.byu-header {
+    background-color: #003366 !important;
+    color: white !important;
+    text-align: center !important;
+    padding: 1.5rem !important;
+}
+
+/* Navigation Styling */
+.byu-navigation {
+    text-align: center !important;
+    background: #003366 !important;
+    padding: 10px 0 !important;
+}
+
+.byu-navigation a {
+    color: #ffcc00 !important;
+    text-decoration: none !important;
+    margin: 0 15px !important;
+    font-weight: bold !important;
+}
+
+.byu-navigation a:hover {
+    color: white !important;
+}
+
+/* Custom Background Section */
+.byu-background-section {
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/a/a8/BYU_Football_Stadium.jpg') !important;
+    background-size: cover !important;
+    color: white !important;
+    padding: 3rem !important;
+    text-align: center !important;
+}
+
+/* Content Block Styling */
+.byu-content-block {
+    background: white !important;
+    margin: 20px auto !important;
+    padding: 20px !important;
+    border-radius: 8px !important;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1) !important;
+    max-width: 800px !important;
+}
+
+/* Image Styling */
+.byu-logo-image {
+    display: block !important;
+    margin: 0 auto !important;
+    max-width: 100% !important;
+    height: auto !important;
+}
+
+/* Tableau Embed Styling */
+.byu-tableau-embed iframe {
+    border: 1px solid #ccc !important;
+    border-radius: 4px !important;
+}
+
+/* Footer Styling */
+.byu-footer {
+    text-align: center !important;
+    background: #003366 !important;
+    color: white !important;
+    padding: 10px 0 !important;
+}
